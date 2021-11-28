@@ -1,2 +1,2 @@
 # PRL_Request
-Página principal Master
+Página principal Main
